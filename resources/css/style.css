@@ -340,6 +340,24 @@ textarea {
 .contact-form input[type=submit] {
     margin-left:44px;
 }
+
+.form-messages {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.success {
+    background-color: rgba(25, 208, 123, 0.747);
+}
+
+.error {
+    background-color: rgba(221, 35, 35, 0.78);
+}
+
 /*----------------------------------------------------------*/
 /* FOOTER
 /*----------------------------------------------------------*/
